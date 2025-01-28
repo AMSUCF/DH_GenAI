@@ -1,5 +1,7 @@
 ## Digital Humanities in the Age of AI
 
+![prof](profcat.png)
+
 ### The Tools
 
 - [Text](https://chatgpt.com/)
