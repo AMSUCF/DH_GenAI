@@ -1,8 +1,8 @@
 ![prof](profcat.png)
 
-### Slides
+## Workshop Materials
 
-[Slides](GenAI_DH.pdf)
+- [Slides](GenAI_DH.pdf)
 
 ### Course Materials
 
