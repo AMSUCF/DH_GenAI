@@ -1,5 +1,9 @@
 ![prof](profcat.png)
 
+### Slides
+
+[Slides](GenAI_DH.pdf)
+
 ### Course Materials
 
 - [Undergraduate](https://anastasiasalter.net/Creative-Coding/)
